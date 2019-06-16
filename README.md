@@ -25,7 +25,7 @@ This sample is written in Swift. The App contain's group's for Model's, ViewCont
 
 ## Application Architecture
 
-The current version also follows the Model-View-Controller (MVC) design pattern and uses modern app development practices including  Auto Layout. In the iOS version of Lister, the user manages multiple lists using a table view implemented in the {AAPL}ListDocumentsViewController class.
+The current version also follows the Model-View-Controller (MVC) design pattern and uses modern app development practices including  Auto Layout. In the current version of JDTestApp, show's a MasterViewController displaying the type of file's and their count. When the user tap's on any File Type row he is navigated to the DetailViewController where all the file's for that particular type are displayed.
 
 
 
