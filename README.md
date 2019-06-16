@@ -31,6 +31,5 @@ The current version also follows the Model-View-Controller (MVC) design pattern 
 
 ## Unit Tests
 
-Lister has unit tests written for the {AAPL}List and {AAPL}ListItem classes. These tests are in the ListerKitTests group. The same tests can be run on an iOS or Mac target to ensure that the cross-platform code works as expected. To run the unit tests, select either the ListerKit (for iOS) or ListerKitOSX (for OS X) scheme in the Scheme menu. Then hold the Run button down and select the "Test" option, or press Command+u to run the tests.
+Test's are written for the DataStore, MasterViewController and the DetailViewController.
 
-Copyright (C) 2014 Apple Inc. All rights reserved.
